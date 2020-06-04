@@ -16,8 +16,6 @@ namespace LilDataProject
         public MainPage()
         {
             InitializeComponent();
-
-            this.BindingContext = new MainPageViewModel();
         }
     }
 }
